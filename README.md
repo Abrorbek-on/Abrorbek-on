@@ -1,7 +1,7 @@
 ## Hi there 👋 Abrorbek
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4C2Y/giphy.gif" width="150" alt="Salom!">
+  <img src="https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif" width="120" alt="Hi 🖐️">
 </p>
 
 
