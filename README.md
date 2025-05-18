@@ -12,10 +12,10 @@
   <img src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" width="400" alt="GitHub">
 </a>
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language" width="100" style="margin-right: 15px;" />
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100" style="margin-right: 15px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="100" style="margin-right: 15px;" />
-<img src="https://seeklogo.com/images/P/postman-logo-7F31A64B26-seeklogo.com.png" alt="Postman" width="100" style="margin-right: 15px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="100" style="margin-right: 15px;" />
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="100" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language" width="60" />
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" />
+  <img src="https://seeklogo.com/images/P/postman-logo-7F31A64B26-seeklogo.com.png" alt="Postman" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="80" />
+</p>
