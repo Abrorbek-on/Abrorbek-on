@@ -14,9 +14,8 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language" width="60" />
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" style="border-radius:50%;" />
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" style="border-radius:50;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Postman-logo.svg" alt="Postman" width="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="80" />
 </p>
-
