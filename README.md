@@ -3,3 +3,8 @@
  <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="azamjonusmonaliyev">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullname%3A+Karimov+Abrorbek)](https://git.io/typing-svg)
+
+ <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
