@@ -6,7 +6,7 @@
 
 
 ### 🚀 Tech Stack
-<p align="center">
+<p align="center" margin-top="50px">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,nextjs,redux,html,css,tailwind,postgres,mongodb,prisma,redis,docker,git,linux,materialui&perline=9" />
 </p>
 
