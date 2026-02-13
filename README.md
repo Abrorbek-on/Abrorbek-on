@@ -4,6 +4,13 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullname%3A+Karimov+Abrorbek)](https://git.io/typing-svg)
 
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,nextjs,redux,html,css,tailwind,postgres,mongodb,prisma,redis,docker,git,linux,materialui&perline=9" />
+</p>
+
+
  <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
