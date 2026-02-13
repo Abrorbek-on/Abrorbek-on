@@ -1,8 +1,9 @@
 <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rzgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="200px">
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullname:+Karimov+Abrorbek;Fullstack developer" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&pause=1000&width=435&lines=Fullname:%20Karimov%20Abrorbek;Fullstack%20Developer" />
 </p>
+
 
 
  <p align="center">
