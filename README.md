@@ -11,7 +11,7 @@
 
 
  <p align="center">
- <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="AbrorbekKarimov">
+ <img alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="AbrorbekKarimov">
 </p>
 
  <div align="center">
