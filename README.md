@@ -9,8 +9,10 @@
   <img margin-top="150px" src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,nextjs,redux,html,css,tailwind,postgres,mongodb,prisma,redis,docker,git,linux,materialui&perline=9" />
 </p>
 
- <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="AbrorbekKarimov">
 
+ <p align="center">
+ <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="AbrorbekKarimov">
+</p>
 
  <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
